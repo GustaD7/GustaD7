@@ -41,14 +41,17 @@
   <a href="https://www.linkedin.com/in/gustavo-costa-54a188313/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
  
-<div align="center">
-  
-  
-</div>
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app" alt="Spotify recently played"  />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/GustaD7/GustaD7/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer"/>
 
