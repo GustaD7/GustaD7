@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <a href="`{https://www.instagram.com/guzzy_044/}" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238A3AB9?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="`https://www.instagram.com/guzzy_044/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238A3AB9?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gustavo-costa-54a188313/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
  
