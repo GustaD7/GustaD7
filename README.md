@@ -41,6 +41,17 @@
   <a href="https://www.linkedin.com/in/gustavo-costa-54a188313/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230E76A8?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
  
+const playlistId = '7Heu5JCbklxFMLQpOux06V';
 
+<iframe
+  title="Spotify Embed: Recommendation Playlist "
+  src={`https://open.spotify.com/embed/playlist/7Heu5JCbklxFMLQpOux06V?utm_source=generator&theme=0`}
+  width="100%"
+  height="100%"
+  style={{ minHeight: '360px' }}
+  frameBorder="0"
+  allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"
+  loading="lazy"
+/>
 
 
